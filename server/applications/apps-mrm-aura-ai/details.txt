@@ -1,0 +1,6 @@
+Aura adalah applikasi AI Chat Bot OMERIZ yang di buat dan di kembangkan oleh Mohammad Rizqy Mubarok, dan RONZDEV.
+Aura memakai API sebagai berikut:
+1. Claude API.
+2. RONZDEV AI API.
+
+(C) 2026 | AURA AI | Mohammad Rizqy Mubarok | Claude API | RONZDEV API
